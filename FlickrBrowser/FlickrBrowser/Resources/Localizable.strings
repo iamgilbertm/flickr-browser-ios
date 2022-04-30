@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  FlickrBrowser
+
+  Created by Gilbert Mendoza on 4/30/22.
+  
+*/
+
+search-bar.label.placeholder = "Search";
